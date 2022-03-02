@@ -6,3 +6,9 @@
 .second {
     background-color: #ffff00;
 }
+
+.first,
+.second {
+    font-style: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px
+}
